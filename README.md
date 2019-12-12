@@ -29,6 +29,7 @@ Create a directory `variables/` and there create a file `login_data.json`. File 
 ```json
 {
   "valid_username": "***",
+  "valid_email": "***",
   "valid_password": "***",
   "invalid_password": "***"
 }
